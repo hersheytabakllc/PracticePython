@@ -1,0 +1,1 @@
+red, green, blue = range(3)
